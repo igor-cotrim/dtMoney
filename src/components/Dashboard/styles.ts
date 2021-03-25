@@ -5,7 +5,3 @@ export const Container = styled.main`
   margin: 0 auto;
   padding: 2.5rem 1rem;
 `;
-
-// export const Container = styled.main``;
-
-// export const Container = styled.main``;
